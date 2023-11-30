@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=0x0god&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x0god&layout=compact&theme=dark)
+
 <!--
 **0x0god/0x0god** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
